@@ -1,0 +1,29 @@
+C:\Users\Kirill\Documents\Projects\lab10.1p\lab10.1p\bin\Debug\lab10.1p.exe
+C:\Users\Kirill\Documents\Projects\lab10.1p\lab10.1p\bin\Debug\lab10.1p.pdb
+C:\Users\Kirill\Documents\Projects\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.exe
+C:\Users\Kirill\Documents\Projects\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.pdb
+C:\Users\Виктор\Desktop\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.exe
+C:\Users\Виктор\Desktop\lab10.1p\lab10.1p\bin\Debug\lab10.1p.exe
+C:\Users\Виктор\Desktop\lab10.1p\lab10.1p\bin\Debug\lab10.1p.pdb
+C:\Users\Виктор\Desktop\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.pdb
+H:\Учёба\ЭГА\Projects\lab10.1p\lab10.1p\bin\Debug\lab10.1p.exe
+H:\Учёба\ЭГА\Projects\lab10.1p\lab10.1p\bin\Debug\lab10.1p.pdb
+H:\Учёба\ЭГА\Projects\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.csprojResolveAssemblyReference.cache
+H:\Учёба\ЭГА\Projects\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.exe
+H:\Учёба\ЭГА\Projects\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.pdb
+C:\Users\Hanzo\Desktop\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.exe
+C:\Users\Hanzo\Desktop\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.pdb
+C:\Users\Hanzo\Desktop\lab10.1p\lab10.1p\bin\Debug\lab10.1p.exe
+C:\Users\Hanzo\Desktop\lab10.1p\lab10.1p\bin\Debug\lab10.1p.pdb
+C:\Users\Hanzo\Desktop\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\Новая папка (2)\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.exe
+C:\Users\Юлия\Desktop\Новая папка (2)\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.pdb
+C:\Users\Юлия\Desktop\Новая папка (2)\lab10.1p\lab10.1p\bin\Debug\lab10.1p.exe
+C:\Users\Юлия\Desktop\Новая папка (2)\lab10.1p\lab10.1p\bin\Debug\lab10.1p.pdb
+C:\Users\Юлия\Desktop\Новая папка (2)\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\end\lab10.1p (2)\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.exe
+C:\Users\Юлия\Desktop\end\lab10.1p (2)\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.pdb
+C:\Users\Юлия\Desktop\end\lab10.1p (2)\lab10.1p\lab10.1p\bin\Debug\lab10.1p.exe
+C:\Users\Юлия\Desktop\end\lab10.1p (2)\lab10.1p\lab10.1p\bin\Debug\lab10.1p.pdb
+C:\Users\Юлия\Desktop\end\lab10.1p (2)\lab10.1p\lab10.1p\obj\x86\Debug\lab10.1p.csprojResolveAssemblyReference.cache
